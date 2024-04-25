@@ -7,7 +7,7 @@ let age = 20
 let isLoggedIn = false
 
 /* number 2 to the power 53
-bigint
+bigInt
 string = ""
 boolean = true or false
 null => standlone value
